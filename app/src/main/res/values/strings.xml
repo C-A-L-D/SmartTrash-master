@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">智能垃圾桶</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_map">导航</string>
+    <string name="title_weather">天气</string>
+    <string name="title_news">新闻</string>
+</resources>
